@@ -1,0 +1,21 @@
+1.Apa itu kecerdasan buatan dan mechine learning?
+	  Kecerdasan buatan adalah kecerdasan yang ditanamkan pada suatu sistem yang bisa disetting atau diatur dalam konteks ilmiah atau bisa disebut juga intelegensi artifisial.
+	Mechine learning adalah salah satu cabang dari artificial intelligence yang membuat sistem agar mampu mengadaptasi kemampuan manusia untuk belajar.
+2.Jenis-jenis data?
+	Data terstruktur adalah data apapun yang dapat diproses, disimpan, dan diambil kembali dalam format yang sama dapat disebut data terstruktur.
+	Data tidak terstruktur adalah data yang tidak memiliki bentuk atau struktur husus. Contoh data yang berbentuk foto/gambar, vidio, atau suara.
+3.Jenis pembelajaran?
+    Apa itu Supervised Learning adalah machine learning model yang mempelajari data dengan label atau target. Contoh algoritmanya, algoritma klasifikasi untuk memprediksi fitur kategori (Ya/Tidak, Mau/Tidak Mau, dll.) dan Regresi untuk memprediksi fitur kontinu (harga rumah, harga saham, dll.)
+  Unsupervised Learning adalah machine learning model yang tidak mempelajari mempelajari pola data tanpa adanya target data. 
+  Contoh algoritmamya, untuk melakukan segmentasi data (segmentasi pelanggan, segmentasi risiko, dll.) dan Dimensional Reduction.
+    Apa itu data hilang (missing data)?
+	Data hilang (missing data) adalah suatu kondisi dimana data tidak ada atau hilang.
+4.Tipe data hilang (missing data) 
+  •	Missing at Random (MAR) artinya missing data hanya berkaitan dengan variabel respon/pengamatan.
+  •	Missing completely at Random (MCAR) artinya missing data tidak berksitan dengan nilai semua variabel, apakah itu variabel dengan missing value atau dengan variabel pengamatan.
+  •	Missing not at Random (MNAR) artinya missing data pada variabel berkaitan dengan variabel itu sendiri, sehingga ini tidak bisa diprediksi dari variabel lain pada suatu dataset.
+
+
+5.Apa itu library pandas dan library numpy?
+	Librari pandas (Python for Data Analysis) adalah library python yang fokus untuk proses analisis data seperti manipulasi data, persiapan data, dan pembersiahan data.
+	Library numpy (Numerical Python) adalah library python yang fokus pada scientific  computing.
